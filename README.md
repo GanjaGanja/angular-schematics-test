@@ -26,3 +26,9 @@ npm publish
 ```
 
 That's it!
+
+### Developing
+
+`npm run build:watch` will watch for changes in .ts files and transpile it .js files.
+
+`schematics .:hello --dry-run=false --name=SomeNameHere` will run test schematics function.
