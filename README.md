@@ -29,6 +29,10 @@ That's it!
 
 ### Developing
 
-`npm run build:watch` will watch for changes in .ts files and transpile it .js files.
+`npm run build:watch` will watch for changes in .ts files and transpile them into .js files.
 
-`schematics .:hello --dry-run=false --name=SomeNameHere` will run test schematics function.
+`schematics .:hello --dry-run=false` will run this test schematics with prompt.
+
+### Links
+
+Repo is based on good article at https://tomastrajan.medium.com/total-guide-to-custom-angular-schematics-5c50cf90cdb4
