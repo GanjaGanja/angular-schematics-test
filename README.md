@@ -33,6 +33,8 @@ That's it!
 
 `schematics .:hello --dry-run=false` will run this test schematics with prompt.
 
+`ng g ../angular-schematics-test/src/collection.json:hello` will run this test schematics with prompt from another Angular App (it needs to be executed from Angular App).
+
 ### Links
 
 Repo is based on good article at https://tomastrajan.medium.com/total-guide-to-custom-angular-schematics-5c50cf90cdb4
