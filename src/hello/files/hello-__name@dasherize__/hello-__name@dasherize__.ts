@@ -1,1 +1,1 @@
-console.log('%c Hello <%= name %>! ', 'backround: yellow');
+console.log('%c Hello <%= name %>! ', 'background: yellow');
